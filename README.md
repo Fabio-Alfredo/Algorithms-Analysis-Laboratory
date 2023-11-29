@@ -22,11 +22,11 @@ This program solves the currency exchange problem using dynamic programming. The
 ### [Laboratory-06] (./main)
 This repository houses solutions implemented in C++ for a series of problems that require the application of dynamic programming. The problems addressed involve various scenarios, from optimizing purchases in a supermarket to efficiently allocating resources to improve Pokémon statistics.
 
-  -*Problem 1: Maximizing Purchases at the Jam Store*: This problem focuses on the optimal arrangement of jam jars on a shelf, considering customers' preferences for ingredients. Resolution involves identifying consecutive sequences that maximize the presence of the preferred ingredient.
+- *Problem 1: Maximizing Purchases at the Jam Store*: This problem focuses on the optimal arrangement of jam jars on a shelf, considering customers' preferences for ingredients. Resolution involves identifying consecutive sequences that maximize the presence of the preferred ingredient.
 
-  -*Issue 2: Optimizing Pokémon Stats*: In this scenario, improving Pokémon statistics through careful administration of vitamins is addressed. The challenge is to use different types of vitamins, each with its specific value, without exceeding the allowed improvement limit.
+- *Issue 2: Optimizing Pokémon Stats*: In this scenario, improving Pokémon statistics through careful administration of vitamins is addressed. The challenge is to use different types of vitamins, each with its specific value, without exceeding the allowed improvement limit.
 
-  -*Problem 3: Casting Actors for a Film*: The objective here is to select actors for a film strategically, maximizing prestige without exceeding the assigned budget. Assigning multiple roles to one actor is possible, providing additional flexibility in cast construction.
+- *Problem 3: Casting Actors for a Film*: The objective here is to select actors for a film strategically, maximizing prestige without exceeding the assigned budget. Assigning multiple roles to one actor is possible, providing additional flexibility in cast construction.
 
 
 
